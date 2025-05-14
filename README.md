@@ -5,7 +5,7 @@ Welcome to Solana Kite on Github!
 
 ## Docs
 
-Solana Kite has a [full documentation site, covering not just Kite but also Solana Kit, Anchor and Codama](https://https://solanakite.org/).
+[Solana Kite has a full documentation site, covering not just Kite but also Solana Kit, Anchor and Codama](https://solanakite.org/).
 
 ## npm packages
 
